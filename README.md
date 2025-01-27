@@ -1,8 +1,5 @@
 # apiRestaurante
-Aquí tienes todo el contenido en un solo bloque para tu archivo `README.md`:
-
-```markdown
-# API Restaurante
+  
 
 Este es un proyecto de una API RESTful para gestionar un sistema de restaurante, donde se pueden gestionar comidas, consultar por ID, nombre, y fecha, además de realizar operaciones de creación, actualización y eliminación de registros. Está construida con Spring Boot.
 
